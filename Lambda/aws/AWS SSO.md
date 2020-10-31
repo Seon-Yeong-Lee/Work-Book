@@ -3,15 +3,15 @@
 
 * __IdP__
 
-  인증 정보 제공자 (identity provider)
+  	인증 정보 제공자 (identity provider)
   
-  ID 공급자의 약어이며 SSO 연합 내에서 인증을 제공하는 ID를 생성하는 중요한 역할
+  	ID 공급자의 약어이며 SSO 연합 내에서 인증을 제공하는 ID를 생성하는 중요한 역할
 
 <br>
 
 * __SAML__
 
-   Security Assertion Markup Language
+   	Security Assertion Markup Language
 
 
 <br>
