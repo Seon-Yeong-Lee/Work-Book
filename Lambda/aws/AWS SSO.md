@@ -1,5 +1,5 @@
 # AWS SSO
-	 SAML 기반 연동을 이용하여 AWS에 API 액세스
+	SAML 기반 연동을 이용하여 AWS에 API 액세스
 
 - IdP
 
@@ -10,6 +10,7 @@
 
 
 - SAML
+
 	Security Assertion Markup Language
 
 
