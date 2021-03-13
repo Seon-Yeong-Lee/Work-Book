@@ -16,3 +16,6 @@
     var args = new Object();
     args.pgmId = "";
     this.gfnNewMdi("새롭게 열 메뉴id", null, args);
+
+### tab 으로 이동
+    taborder 사용
