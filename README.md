@@ -7,3 +7,4 @@
 4. 개발 도구
 5. Spring
 6. Javascript
+7. 배포
